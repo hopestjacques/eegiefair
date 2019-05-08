@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://afahdueve.chrishenrick.com/sitemap.xml
